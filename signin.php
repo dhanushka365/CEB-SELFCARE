@@ -45,3 +45,5 @@ else
 //account not exists,create a new account
 echo json_encode("dont have an account");
 }
+
+?>
